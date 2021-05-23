@@ -1,29 +1,29 @@
 var questions = [
     {
-        title: "Commonly used data types DO NOT include:",
-        choice: ["strins", "booleans", "alerts", "numbers" ],
-        answer: "alerts"
+        title: "When was William Shakespeare born?",
+        choice: ["23 April 1564", "23 May 1564", "10 October 1990", "18 April 1564" ],
+        answer: "23 April 1564"
 
     },
 
     {
-        title: "The condition in an if/ else statemnt is enclosed within _______.",
-        choice: ["quotes", "curly bracket", "parenthasis", "square bracket"],
-        answer: "parenthasis"
+        title: "Who was Henry VIll's first wife?",
+        choice: ["Katherine Parr", "Jane Seymour", "Catherine of Aragon", "Catherine Howard"],
+        answer: "Catherine of Aragon"
 
     },
 
     {
-        title: "Arrays in JavaScript can be used to store",
-        choice: [],
-        answer: ""
+        title: "When did the Cold War end?",
+        choice: ["1990", "1991", "1891", "1999"],
+        answer: "1991"
 
     },
 
     {
-        title: "",
-        choice: [],
-        answer: ""
+        title: "Who was the architect who designed London's Millennium Dome? ",
+        choice: ["Richard Rogers", "Ian Liddell", "Jonathan Meades ", "Mike Davies"],
+        answer: "Richard Rogers"
 
     },
 
